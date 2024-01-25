@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016737281709",
+    "project_id": "login-d2e06",
+    "storage_bucket": "login-d2e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016737281709:android:cae3753740e8ffc81e7824",
+        "android_client_info": {
+          "package_name": "com.mainer.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YF6wZj9CxeSPGzShLqQw42vFXRElG0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
